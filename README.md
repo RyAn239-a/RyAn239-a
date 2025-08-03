@@ -1,20 +1,9 @@
-## 👋 Hey there! I'm Ryan Fan
+## Hey there! I'm Ryan Fan ✨
 
-🎓 Student | 💻 Aspiring Software Developer | 🧠 Lifelong Learner  
+🎓 Student | 💻 Aspiring Software Developer 
 📍 Based in Canada  
 
 ---
-
-### 🚀 About Me
-
-- 🧑‍💻 Currently diving into **web development** and **Python**
-- 📚 Studying computer science and taking **CS50**
-- 🎮 Building fun projects like games & useful tools this summer
-
-### 📈 Goals
-
-- 📦 Build and launch impactful personal projects  
-- 📖 Learn full-stack development and deployment  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayinfans) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ryan Fan) 
